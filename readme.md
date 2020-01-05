@@ -12,7 +12,7 @@
 
 `(upper-split "TheQ.uickBro.wnFox(Ju.mps(Ove.r)).(The)LazyDog"    #\.)` =>
 
-``("TheQ"  "uickBro" "wnFox" "(Ju.mps(Ove.r))" "(The)LazyDog")`
+`("TheQ"  "uickBro" "wnFox" "(Ju.mps(Ove.r))" "(The)LazyDog")`
 
 Тази функция се използва с разделители `#\.` и  `#\λ` и се използва, за да се запазят правилата на скобите
 
